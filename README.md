@@ -1,2 +1,2 @@
 # Social-Media-Sentiment-Analysis
-This task involves analyzing sentiment from social media data. Explore techniques to extract, process, and analyze textual data from platforms like Twitter, Facebook, or Instagram. Objective will be to classify user sentiments as positive, negative, or neutral, providing valuable insights for brand reputation management and market research
+Using Text Mining and Natural Language Processing Techniques pre- processed 50k tweets. Visualized the impact of hashtags on tweets sentiment using Seaborn. Applied machine learning models, calculated f1_scores, accordingly used the best model for sentiment prediction.
